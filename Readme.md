@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Tutorial Feito com ♥ by [Danrley](https://github.com/danrleylfd) :wave:
+Feito com ♥ by [Danrley](https://github.com/danrleylfd) :wave:
